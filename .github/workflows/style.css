@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrolling for smoother 3D rendering */
+    width: 100vw;
+    height: 100vh; /* Ensure full viewport coverage */
+    background-color: #000; /* Optional: Set a dark background for better particle visibility */
+}
+
+/* You can add additional styles for elements like headings, buttons, or other UI elements here */
